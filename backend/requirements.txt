@@ -1,0 +1,6 @@
+Flask
+flask-cors
+PyMuPDF
+pandas
+numpy
+scikit-learn==1.4.2
